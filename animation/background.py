@@ -1,6 +1,8 @@
 class BackGround:
     """
     Simple background for the animation.
+    You can create a more complex background and implement it here if you so choose, make sure to draw it on 
+    to the window in the "draw" function.
 
     Parameters
     ----------
